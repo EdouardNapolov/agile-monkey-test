@@ -1,0 +1,1 @@
+insert into users(email, name, created, admin) select 'eduard.napolov@gmail.com', 'Eduard Napolov', CURRENT_TIMESTAMP(), true
